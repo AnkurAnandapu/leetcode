@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /*532. K-diff Pairs in an Array*/
-public class Solution {
+public class KdiffPairsInAnArray {
 
     Integer uniquePairs(Integer[] input, Integer k) {
 
