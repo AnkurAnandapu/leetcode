@@ -5,3 +5,4 @@ LeetCode: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ Sol
 LeetCode: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/BestTimeToBuyAndSellStock1.java <br/>
 LeetCode: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/BestTimeToBuyAndSellStock2.java <br/>
 LeetCode: https://leetcode.com/problems/count-primes/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/CountPrimes.java <br/>
+LeetCode: https://leetcode.com/problems/sort-the-matrix-diagonally/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/SortMatrixDiagonal.java <br/>
