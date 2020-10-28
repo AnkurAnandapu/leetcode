@@ -7,3 +7,4 @@ LeetCode: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ Solu
 LeetCode: https://leetcode.com/problems/count-primes/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/CountPrimes.java <br/>
 LeetCode: https://leetcode.com/problems/sort-the-matrix-diagonally/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/SortMatrixDiagonal.java <br/>
 LeetCode: https://leetcode.com/problems/summary-ranges/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/SummaryRanges.java <br/>
+LeetCode: https://leetcode.com/problems/pascals-triangle/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/PascalsTriangle.java <br/>
