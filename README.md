@@ -8,3 +8,4 @@ LeetCode: https://leetcode.com/problems/count-primes/ Solution: https://github.c
 LeetCode: https://leetcode.com/problems/sort-the-matrix-diagonally/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/SortMatrixDiagonal.java <br/>
 LeetCode: https://leetcode.com/problems/summary-ranges/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/SummaryRanges.java <br/>
 LeetCode: https://leetcode.com/problems/pascals-triangle/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/PascalsTriangle.java <br/>
+LeetCode: https://leetcode.com/problems/count-good-nodes-in-binary-tree/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/GoodNodes.java <br/>
