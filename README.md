@@ -9,3 +9,4 @@ LeetCode: https://leetcode.com/problems/sort-the-matrix-diagonally/ Solution: ht
 LeetCode: https://leetcode.com/problems/summary-ranges/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/SummaryRanges.java <br/>
 LeetCode: https://leetcode.com/problems/pascals-triangle/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/PascalsTriangle.java <br/>
 LeetCode: https://leetcode.com/problems/count-good-nodes-in-binary-tree/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/GoodNodes.java <br/>
+LeetCode: https://leetcode.com/problems/maximize-distance-to-closest-person/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/MaximizeDistanceToClosestPerson.java <br/>
