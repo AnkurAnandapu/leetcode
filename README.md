@@ -11,3 +11,4 @@ LeetCode: https://leetcode.com/problems/pascals-triangle/ Solution: https://gith
 LeetCode: https://leetcode.com/problems/count-good-nodes-in-binary-tree/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/GoodNodes.java <br/>
 LeetCode: https://leetcode.com/problems/maximize-distance-to-closest-person/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/MaximizeDistanceToClosestPerson.java <br/>
 LeetCode: https://leetcode.com/problems/iterator-for-combination/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/CombinationIterator.java <br/>
+LeetCode: https://leetcode.com/problems/insertion-sort-list/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/InsertionSortList.java <br/>
