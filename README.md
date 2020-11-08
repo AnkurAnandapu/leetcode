@@ -13,3 +13,4 @@ LeetCode: https://leetcode.com/problems/maximize-distance-to-closest-person/ Sol
 LeetCode: https://leetcode.com/problems/iterator-for-combination/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/CombinationIterator.java <br/>
 LeetCode: https://leetcode.com/problems/insertion-sort-list/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/InsertionSortList.java <br/>
 LeetCode: https://leetcode.com/problems/consecutive-characters/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/ConsecutiveCharacters.java <br/>
+LeetCode: https://leetcode.com/problems/longest-common-prefix/ Solution: https://github.com/AnkurAnandapu/leetcode/blob/master/src/main/java/LongestCommonPrefix.java <br/>
